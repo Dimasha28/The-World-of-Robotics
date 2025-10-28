@@ -61,7 +61,7 @@ The site is designed with a clean, modern layout to ensure a smooth and educatio
 ### Steps
 1. Download or clone the project:
    ```bash
-   git clone https://github.com/yourusername/the-world-of-robotics.git
+   git clone https://github.com/Dimasha28/the-world-of-robotics.git
    cd the-world-of-robotics
 
 
